@@ -1,0 +1,1 @@
+{"processes":{"160a8fb0-e638-4544-ba70-e1aa2f8021b8":{"parent":null,"children":["4dc4ff07-ac20-4bdf-93a8-76e93487ad47"]},"4dc4ff07-ac20-4bdf-93a8-76e93487ad47":{"parent":"160a8fb0-e638-4544-ba70-e1aa2f8021b8","children":[]}},"files":{"/home/framos/www/cursos/js-expert/aula04-e2e-coverage/src/api.js":["4dc4ff07-ac20-4bdf-93a8-76e93487ad47"]},"externalIds":{}}
