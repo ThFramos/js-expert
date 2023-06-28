@@ -1,0 +1,23 @@
+[
+    {
+        "id": "580a1e90-b42f-4226-9007-04a522b6b25e",
+        "name": "Grand Caravan",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "84f510d7-6eee-401d-b638-9bc351132e76",
+        "name": "Challenger",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "6f518d9c-8bda-45b4-b0ef-ef4395e4a485",
+        "name": "Camaro",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    }
+]
