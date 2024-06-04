@@ -27,7 +27,7 @@ const file = new File()
 //alternativa feia
 // watch(__filename, (event, filename) => file.watch(event, filename))
 
-//alternativa melhir: deixar explicito  qual é o contexto da funçaõ
+//alternativa melhor: deixar explicito  qual é o contexto da funçaõ
 // o bind retorna uma função com o 'this' setado
 watch(__filename, file.watch.bind(file))
 
